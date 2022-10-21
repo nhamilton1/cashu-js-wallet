@@ -21,6 +21,12 @@
   "homepage": "https://github.com/motorina0/cashu-js-wallet#readme",
   "dependencies": {
     "@noble/secp256k1": "^1.7.0",
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "eslint": "^8.25.0",
+    "typescript": "^4.8.4"
   }
 }
